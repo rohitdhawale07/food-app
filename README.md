@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Food App
+## Hosted Link:- https://food-app-orpin-gamma.vercel.app/
+This food application is fully responsive for different screen sizes, 
+allow users to search for different types of recipes according to there choice, also receipe categories are provided for reference.
+When user clicks on any perticular category then that category discription is displayed along with list for selected category.
+
+## Features
+- Fully Responsive application for different screen sizes.
+- Sliding `Sidebar`.
+- Routing to diffrent web pages using `React-Router-Dom`
+- `Axios` for fetching data from api.
+- Reusable Components.
+- `Loader` SVG for increasing UI exerience.
+- Performed edge cases when perticular recipe is not found.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
